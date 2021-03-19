@@ -1,0 +1,27 @@
+{
+  "name": "student-database",
+  "version": "1.0.0",
+  "description": "Student database application in JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoaibiqbal0/student-database.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "SQLite",
+    "Angular.js"
+  ],
+  "author": "Shoaib Iqbal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shoaibiqbal0/student-database/issues"
+  },
+  "homepage": "https://github.com/shoaibiqbal0/student-database#readme"
+}
