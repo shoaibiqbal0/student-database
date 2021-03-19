@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/shoaibiqbal0/student-database/issues"
   },
-  "homepage": "https://github.com/shoaibiqbal0/student-database#readme"
+  "homepage": "https://github.com/shoaibiqbal0/student-database#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
 }
